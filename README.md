@@ -42,4 +42,5 @@ videoSeperByFixedTime.py 是调整了需求，每隔300秒截取30秒视频，�
 
 ## 联系我们
 
-如有任何问题或建议，请随时联系我们：your@email.com
+如有任何问题或建议，请随时联系我们：congminglst@163.cm
+当然也许你想看一下博客https://blog.csdn.net/weixin_43914278/article/details/132489511?spm=1001.2014.3001.5502
